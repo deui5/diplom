@@ -1,1 +1,1 @@
-<code>Dip</code> 
+# diplom
