@@ -1,1 +1,1 @@
-<code>Diplom</code> 
+<code>Dip</code> 
